@@ -1,3 +1,4 @@
+![fitnessTracker](https://user-images.githubusercontent.com/70656215/111915996-551dd500-8a4f-11eb-8dd6-fb1caeed0459.PNG)
 # fitness_tracker
 NoSQL fitness tracking application
 
