@@ -2,6 +2,8 @@
 # fitness_tracker
 NoSQL fitness tracking application
 
+https://git.heroku.com/pure-fjord-58877.git
+
 
 # NOSQL FITNESS TRACKER
     
